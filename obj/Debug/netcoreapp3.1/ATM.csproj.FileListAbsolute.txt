@@ -1,0 +1,14 @@
+E:\myExam\MyExam\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+E:\myExam\MyExam\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+E:\myExam\MyExam\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+E:\myExam\MyExam\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+E:\myExam\MyExam\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+E:\myExam\MyExam\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.AssemblyReference.cache
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.CoreCompileInputs.cache
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
+E:\myExam\MyExam\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.genruntimeconfig.cache
